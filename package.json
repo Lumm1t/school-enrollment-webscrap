@@ -16,7 +16,7 @@
   },
   "devDependencies": {
     "@types/nightmare": "^2.10.4",
-    "@types/node": "^16.0.1",
+    "@types/node": "^18.11.3",
     "@typescript-eslint/eslint-plugin": "4",
     "eslint": "7",
     "eslint-config-prettier": "^8.0.0",
